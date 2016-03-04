@@ -1,0 +1,16 @@
+Read and do
+1) http://htmlbook.ru/samhtml/znacheniya-atributov-tegov
+2) http://htmlbook.ru/samhtml/tekst
+3) http://htmlbook.ru/samhtml/ssylki
+5) http://htmlbook.ru/samhtml/izobrazheniya
+6) http://htmlbook.ru/samhtml/spiski
+7) http://htmlbook.ru/samhtml/tablitsy
+8) http://htmlbook.ru/samhtml/freymy (только главная страница, без дочерних)
+9) http://htmlbook.ru/samlayout/verstka-s-pomoshchyu-tablits
+10) http://htmlbook.ru/samlayout/blochnaya-verstka !!!
+
+Full task - make-up page like on picture full_sample
+
+Now you should make only markup (just HTML). Your results should be kind of pictures step1_1, step1_2, step1_3
+
+For icons use  https://fortawesome.github.io/Font-Awesome/icons/
